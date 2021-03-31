@@ -1,12 +1,19 @@
 # Results of our NAS approach
 1. cd into the root folder of this repository.
 2. create a python environment by the following command:
+
 `conda env create -f code/environment.yaml`
+
 3. activate environment:
+
 `conda activate apdcm`
+
 4. cd in code folder:
+
 `cd code`
+
 5. execute the following bash script:
+
 `bash bash execute_models.sh`
 
 Output should look similar as follows:
