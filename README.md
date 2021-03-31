@@ -32,3 +32,4 @@ MNIST:
 Free parameters: 966215
 Average accuracy: 99.75%
 ```
+The Models are stored in the folder models.
